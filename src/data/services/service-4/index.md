@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
+title: 'Youtuber (planning)'
 icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'I have plans to stream games or tech talks on youtube in the future'
 ---

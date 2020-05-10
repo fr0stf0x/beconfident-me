@@ -1,11 +1,13 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'ANTS Programmatic'
+position: 'Front-end Executor'
+startDate: 'May 2019'
+endDate: 'May 2020'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At ANTS, we build tools for data aggregation and automated reporting using ReactJS
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Work with back-end team and DB team to implements Restful APIs using ExpressJS
+
+

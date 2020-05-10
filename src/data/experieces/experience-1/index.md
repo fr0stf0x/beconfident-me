@@ -1,9 +1,13 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'FPT Software Ho Chi Minh City'
+position: 'Intern Web Developer'
+startDate: 'Apr 2018'
+endDate: 'Aug 2018'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+On start days at FPT Software, a large Software Company at Ho Chi Minh City, I learned about software development process.
+
+Then I joined a 5-member team and lead them to built a mock-up Interview process management system
+
+Stack used: HTML, CSS, Javascript and Spring Framework at backend

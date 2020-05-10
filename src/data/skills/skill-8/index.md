@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Illustrator'
-percentage: 41
+title: 'Visual Studio Code'
+percentage: 80
 ---
