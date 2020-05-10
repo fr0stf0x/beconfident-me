@@ -47,7 +47,7 @@ const Testimonials = () => {
   return (
     <Container section>
       <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
-      <Styled.Testimonials>
+      {/* <Styled.Testimonials>
         <Carousel>
           {testimonials.map((item) => {
             const {
@@ -67,7 +67,7 @@ const Testimonials = () => {
             );
           })}
         </Carousel>
-      </Styled.Testimonials>
+      </Styled.Testimonials> */}
     </Container>
   );
 };
